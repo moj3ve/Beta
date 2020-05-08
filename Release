@@ -1,0 +1,12 @@
+Origin: Beta
+Label: Beta
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: ios
+
+SHA256:
+ ea2bb9c7067f34cdba0f8a8470cfce91a3d97bc42b2583d7f3f4e6e2af82fd5a 546 Packages.bz2
+ 9f25b2bb45868bf8cacb599874616fedebd5bcf15556877f0b685a3de3311410 524 Packages.xz
